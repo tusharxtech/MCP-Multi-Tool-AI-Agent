@@ -38,8 +38,7 @@ The agent can dynamically call external tools (like math functions) via MCP serv
 * **LangGraph**
 * **LangChain MCP Adapters**
 * **Ollama (LLaMA 3.2)**
-* **FastMCP**
-* **AsyncIO**
+  
 
 ---
 
@@ -174,11 +173,7 @@ Contributions are welcome! Feel free to fork and submit a PR.
 
 ---
 
-## 📜 License
 
-MIT License
-
----
 
 ## 👨‍💻 Author
 
